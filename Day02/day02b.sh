@@ -8,26 +8,37 @@
 
 ###############################################################################
 ### variables and constants
-INPUT_FILE='test2.txt'
+#INPUT_FILE='test2.txt'
+INPUT_FILE='input.txt'
 
 STR_ARRAY=( $(cat $INPUT_FILE) )
 
 COUNT=0
 ARRLEN=${#STR_ARRAY}
 
-for x in `seq 0 $ARRLEN`; do
+for x in `seq 0 $(($ARRLEN - 1))`; do
   TESTSTR=${STR_ARRAY[x]}
   STRLEN=${#TESTSTR}
-  echo $TESTSTR
   declare -a ANSWER
-  for (( m=0; m<${STRLEN}; m++ )); do
-    TEMPSTR=${STR_ARRAY[(($m+$COUNT))]}
-
-    ELEMENT=${TESTSTR:$m:1}  
-    echo "element is: $ELEMENT"
-  done
+  for y in `seq $(($COUNT + 1)) $ARRLEN`; do 
+    unset ANSWER
+    TEMPSTR=${STR_ARRAY[y]}
+    FALSES=0
+    for (( m=0; m<${STRLEN}; m++ )); do
+      ELEMENT_X=${TESTSTR:$m:1}  
+      ELEMENT_Y=${TEMPSTR:$m:1}  
+      if [ "${ELEMENT_X}" == "${ELEMENT_Y}" ]; then
+#        echo "this $ELEMENT_X equals $ELEMENT_Y"
+        ANSWER+=( $ELEMENT_X )
+      fi
+    done # loop over elements
+    echo "ANswer is: ${#ANSWER[@]}, ${ANSWER[@]}"
+    if [ ${#ANSWER[@]} -eq $(($STRLEN - 1 )) ]; then
+      echo "Answer is: ${ANSWER[@]}"
+      break
+    fi
+  done # loop over strings
   (( COUNT++ ))
-  echo "Count is: $COUNT"
 done
 ################################################################################
 #### read each line of the input file

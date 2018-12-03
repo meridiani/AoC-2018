@@ -1,0 +1,352 @@
+ANswer is: 21, d g h f b s y i z n o u m j l e v a p q r
+ANswer is: 20, d g h f b y i z o u m j l e v a p w t r
+ANswer is: 20, d g h f b s z n o u m j l e v a p w q r
+ANswer is: 20, d g h f b s y z n o u m j l a p w q t r
+ANswer is: 20, g h f b s y i z n u m j l e v a p q t r
+ANswer is: 20, d g h f s y i z o u m j l e v a w q t r
+ANswer is: 20, d g h f s y n o u m j l e v a p w q t r
+ANswer is: 20, g h f b s y i z n o u m j l v a p w q t
+ANswer is: 20, d g f b s y i z n o u m j l e v a q t r
+ANswer is: 21, d g h f b s y i z n o m j l e v a p w t r
+ANswer is: 20, d h f b s y i z n o u m l e v a p q t r
+ANswer is: 20, d g h f s y i z n o m j l e v a p w q r
+ANswer is: 20, d g h f b s y i n o u j l e v a w q t r
+ANswer is: 21, d g h f b y i z n o m j l e v a p w q t r
+ANswer is: 22, g h f b s y i z n o u m j l e v a p w q t r
+ANswer is: 21, d h f b s y z n o u m j l e v a p w q t r
+ANswer is: 20, h f s y i z n o u m j l e v a p w q t r
+ANswer is: 20, d g h f b s y i z n m l e v a p w q t r
+ANswer is: 20, d g f b s y i z u m j l e v a p w q t r
+ANswer is: 21, g h f b s y i z n o u m j l e v a p w q t
+ANswer is: 20, d g h f s y i z n o u m j l e v p w q r
+ANswer is: 21, d h f b s y i z n o u m j l e v a p w q t
+ANswer is: 20, d h f s y i z n o u j l e v a p w q t r
+ANswer is: 21, d g h f b y i z n o u m j l e v a p w t r
+ANswer is: 20, d g h f s y i z n o u m l v a p w q t r
+ANswer is: 20, g h f b y i z n u m j l e v a p w q t r
+ANswer is: 20, d g h f b y i z o u m k j l e v a c p r
+ANswer is: 21, d g h f b s z n o u m k j l e v a c p q r
+ANswer is: 20, d g h f b s y z n o u m k j l a c p q r
+ANswer is: 21, g h f b s y i z n u m k j l e v a c p q r
+ANswer is: 20, d g h f s y i z o u m k j l e v a c q r
+ANswer is: 20, d g h f s y n o u m k j l e v a c p q r
+ANswer is: 20, g h f b s y i z n o u m k j l v a c p q
+ANswer is: 21, d g f b s y i z n o u m k j l e v a c q r
+ANswer is: 20, d g h f b s y i z n o m j l e v a c p r
+ANswer is: 21, d h f b s y i z n o u m k l e v a c p q r
+ANswer is: 21, d g h f s y i z n o m k j l e v a c p q r
+ANswer is: 20, d g h f b s y i n o u k j l e v a c q r
+ANswer is: 21, d g h f b y i z n o m k j l e v a c p q r
+ANswer is: 21, g h f b s y i z n o u m j l e v a c p q r
+ANswer is: 20, d h f b s y z n o u m k j l e v a p q r
+ANswer is: 20, h f s y i z n o u m k j l e v a c p q r
+ANswer is: 20, d g h f b s y i z n m k l e v a c p q r
+ANswer is: 20, d g f b s y i z u m k j l e v a c p q r
+ANswer is: 21, g h f b s y i z n o u m k j l e v a c p q
+ANswer is: 21, d g h f s y i z n o u m k j l e v c p q r
+ANswer is: 21, d h f b s y i z n o u m k j l e v a c p q
+ANswer is: 20, d h f s y i z n o u k j l e v a c p q r
+ANswer is: 21, d g h f b y i z n o u m k j l e v a c p r
+ANswer is: 20, d g h f s y i z n o u m k l v a c p q r
+ANswer is: 20, g h f b y i z n u m k j l e v a c p q r
+ANswer is: 20, d g h f b z o u m k j l x e v a c p w r
+ANswer is: 20, d g h f b y z o u m k j l x a c p w t r
+ANswer is: 20, g h f b y i z u m k j l x e v a c p t r
+ANswer is: 21, d g h f y i z o u m k j l x e v a c w t r
+ANswer is: 20, d g h f y o u m k j l x e v a c p w t r
+ANswer is: 20, g h f b y i z o u m k j l x v a c p w t
+ANswer is: 20, d g f b y i z o u m k j l x e v a c t r
+ANswer is: 21, d g h f b y i z o m j l x e v a c p w t r
+ANswer is: 20, d h f b y i z o u m k l x e v a c p t r
+ANswer is: 20, d g h f y i z o m k j l x e v a c p w r
+ANswer is: 20, d g h f b y i o u k j l x e v a c w t r
+ANswer is: 21, d g h f b y i z o m k j l e v a c p w t r
+ANswer is: 20, g h f b y i z o u m j l e v a c p w t r
+ANswer is: 20, d h f b y z o u m k j l x e v a p w t r
+ANswer is: 20, h f y i z o u m k j l x e v a c p w t r
+ANswer is: 20, d g h f b y i z m k l x e v a c p w t r
+ANswer is: 21, d g f b y i z u m k j l x e v a c p w t r
+ANswer is: 20, g h f b y i z o u m k j l e v a c p w t
+ANswer is: 20, d g h f y i z o u m k j l x e v c p w r
+ANswer is: 20, d h f b y i z o u m k j l e v a c p w t
+ANswer is: 20, d h f y i z o u k j l x e v a c p w t r
+ANswer is: 22, d g h f b y i z o u m k j l e v a c p w t r
+ANswer is: 20, d g h f y i z o u m k l x v a c p w t r
+ANswer is: 21, g h f b y i z u m k j l x e v a c p w t r
+ANswer is: 21, d g h f b s z n o u m k j l x a c p w q r
+ANswer is: 20, g h f b s z n u m k j l x e v a c p q r
+ANswer is: 20, d g h f s z o u m k j l x e v a c w q r
+ANswer is: 21, d g h f s n o u m k j l x e v a c p w q r
+ANswer is: 20, g h f b s z n o u m k j l x v a c p w q
+ANswer is: 20, d g f b s z n o u m k j l x e v a c q r
+ANswer is: 20, d g h f b s z n o m j l x e v a c p w r
+ANswer is: 20, d h f b s z n o u m k l x e v a c p q r
+ANswer is: 21, d g h f s z n o m k j l x e v a c p w q r
+ANswer is: 20, d g h f b s n o u k j l x e v a c w q r
+ANswer is: 20, d g h f b z n o m k j l e v a c p w q r
+ANswer is: 20, g h f b s z n o u m j l e v a c p w q r
+ANswer is: 21, d h f b s z n o u m k j l x e v a p w q r
+ANswer is: 20, h f s z n o u m k j l x e v a c p w q r
+ANswer is: 20, d g h f b s z n m k l x e v a c p w q r
+ANswer is: 20, d g f b s z u m k j l x e v a c p w q r
+ANswer is: 20, g h f b s z n o u m k j l e v a c p w q
+ANswer is: 21, d g h f s z n o u m k j l x e v c p w q r
+ANswer is: 20, d h f b s z n o u m k j l e v a c p w q
+ANswer is: 20, d h f s z n o u k j l x e v a c p w q r
+ANswer is: 20, d g h f b z n o u m k j l e v a c p w r
+ANswer is: 20, d g h f s z n o u m k l x v a c p w q r
+ANswer is: 20, g h f b z n u m k j l x e v a c p w q r
+ANswer is: 20, g h f b s y z n u m k j l x a c p q t r
+ANswer is: 20, d g h f s y z o u m k j l x a c w q t r
+ANswer is: 21, d g h f s y n o u m k j l x a c p w q t r
+ANswer is: 21, g h f b s y z n o u m k j l x a c p w q t
+ANswer is: 20, d g f b s y z n o u m k j l x a c q t r
+ANswer is: 20, d g h f b s y z n o m j l x a c p w t r
+ANswer is: 20, d h f b s y z n o u m k l x a c p q t r
+ANswer is: 20, d g h f s y z n o m k j l x a c p w q r
+ANswer is: 20, d g h f b s y n o u k j l x a c w q t r
+ANswer is: 20, d g h f b y z n o m k j l a c p w q t r
+ANswer is: 20, g h f b s y z n o u m j l a c p w q t r
+ANswer is: 21, d h f b s y z n o u m k j l x a p w q t r
+ANswer is: 20, h f s y z n o u m k j l x a c p w q t r
+ANswer is: 20, d g h f b s y z n m k l x a c p w q t r
+ANswer is: 20, d g f b s y z u m k j l x a c p w q t r
+ANswer is: 20, g h f b s y z n o u m k j l a c p w q t
+ANswer is: 20, d g h f s y z n o u m k j l x c p w q r
+ANswer is: 20, d h f b s y z n o u m k j l a c p w q t
+ANswer is: 20, d h f s y z n o u k j l x a c p w q t r
+ANswer is: 20, d g h f b y z n o u m k j l a c p w t r
+ANswer is: 21, d g h f s y z n o u m k l x a c p w q t r
+ANswer is: 20, g h f b y z n u m k j l x a c p w q t r
+ANswer is: 20, g h f s y i z u m k j l x e v a c q t r
+ANswer is: 20, g h f s y n u m k j l x e v a c p q t r
+ANswer is: 21, g h f b s y i z n u m k j l x v a c p q t
+ANswer is: 21, g f b s y i z n u m k j l x e v a c q t r
+ANswer is: 20, g h f b s y i z n m j l x e v a c p t r
+ANswer is: 21, h f b s y i z n u m k l x e v a c p q t r
+ANswer is: 20, g h f s y i z n m k j l x e v a c p q r
+ANswer is: 20, g h f b s y i n u k j l x e v a c q t r
+ANswer is: 20, g h f b y i z n m k j l e v a c p q t r
+ANswer is: 21, g h f b s y i z n u m j l e v a c p q t r
+ANswer is: 20, h f b s y z n u m k j l x e v a p q t r
+ANswer is: 21, h f s y i z n u m k j l x e v a c p q t r
+ANswer is: 21, g h f b s y i z n m k l x e v a c p q t r
+ANswer is: 21, g f b s y i z u m k j l x e v a c p q t r
+ANswer is: 21, g h f b s y i z n u m k j l e v a c p q t
+ANswer is: 20, g h f s y i z n u m k j l x e v c p q r
+ANswer is: 20, h f b s y i z n u m k j l e v a c p q t
+ANswer is: 20, h f s y i z n u k j l x e v a c p q t r
+ANswer is: 20, g h f b y i z n u m k j l e v a c p t r
+ANswer is: 20, g h f s y i z n u m k l x v a c p q t r
+ANswer is: 22, g h f b y i z n u m k j l x e v a c p q t r
+ANswer is: 21, d g h f s y o u m k j l x e v a c w q t r
+ANswer is: 20, g h f s y i z o u m k j l x v a c w q t
+ANswer is: 21, d g f s y i z o u m k j l x e v a c q t r
+ANswer is: 20, d g h f s y i z o m j l x e v a c w t r
+ANswer is: 20, d h f s y i z o u m k l x e v a c q t r
+ANswer is: 21, d g h f s y i z o m k j l x e v a c w q r
+ANswer is: 21, d g h f s y i o u k j l x e v a c w q t r
+ANswer is: 20, d g h f y i z o m k j l e v a c w q t r
+ANswer is: 20, g h f s y i z o u m j l e v a c w q t r
+ANswer is: 20, d h f s y z o u m k j l x e v a w q t r
+ANswer is: 21, h f s y i z o u m k j l x e v a c w q t r
+ANswer is: 20, d g h f s y i z m k l x e v a c w q t r
+ANswer is: 22, d g f s y i z w u m k j l x e v a c w q t r
+ANswer is: 20, g h f s y i z o u m k j l e v a c w q t
+ANswer is: 21, d g h f s y i z o u m k j l x e v c w q r
+ANswer is: 20, d h f s y i z o u m k j l e v a c w q t
+ANswer is: 21, d h f s y i z o u k j l x e v a c w q t r
+ANswer is: 20, d g h f y i z o u m k j l e v a c w t r
+ANswer is: 21, d g h f s y i z o u m k l x v a c w q t r
+ANswer is: 20, g h f y i z u m k j l x e v a c w q t r
+ANswer is: 20, g h f s y n o u m k j l x v a c p w q t
+ANswer is: 20, d g f s y n o u m k j l x e v a c q t r
+ANswer is: 20, d g h f s y n o m j l x e v a c p w t r
+ANswer is: 20, d h f s y n o u m k l x e v a c p q t r
+ANswer is: 21, d g h f s y n o m k j l x e v a c p w q r
+ANswer is: 21, d g h f s y n o u k j l x e v a c w q t r
+ANswer is: 20, d g h f y n o m k j l e v a c p w q t r
+ANswer is: 20, g h f s y n o u m j l e v a c p w q t r
+ANswer is: 21, d h f s y n o u m k j l x e v a p w q t r
+ANswer is: 21, h f s y n o u m k j l x e v a c p w q t r
+ANswer is: 20, d g h f s y n m k l x e v a c p w q t r
+ANswer is: 20, d g f s y u m k j l x e v a c p w q t r
+ANswer is: 20, g h f s y n o u m k j l e v a c p w q t
+ANswer is: 21, d g h f s y n o u m k j l x e v c p w q r
+ANswer is: 20, d h f s y n o u m k j l e v a c p w q t
+ANswer is: 21, d h f s y n o u k j l x e v a c p w q t r
+ANswer is: 20, d g h f y n o u m k j l e v a c p w t r
+ANswer is: 21, d g h f s y n o u m k l x v a c p w q t r
+ANswer is: 20, g h f y n u m k j l x e v a c p w q t r
+ANswer is: 20, g f b s y i z n o u m k j l x v a c q t
+ANswer is: 20, g h f b s y i z n o m j l x v a c p w t
+ANswer is: 20, h f b s y i z n o u m k l x v a c p q t
+ANswer is: 20, g h f s y i z n o m k j l x v a c p w q
+ANswer is: 20, g h f b s y i n o u k j l x v a c w q t
+ANswer is: 20, g h f b y i z n o m k j l v a c p w q t
+ANswer is: 21, g h f b s y i z n o u m j l v a c p w q t
+ANswer is: 20, h f b s y z n o u m k j l x v a p w q t
+ANswer is: 21, h f s y i z n o u m k j l x v a c p w q t
+ANswer is: 20, g h f b s y i z n m k l x v a c p w q t
+ANswer is: 20, g f b s y i z u m k j l x v a c p w q t
+ANswer is: 22, g h f b s y i z n o u m k j l v a c p w q t
+ANswer is: 20, g h f s y i z n o u m k j l x v c p w q
+ANswer is: 21, h f b s y i z n o u m k j l v a c p w q t
+ANswer is: 20, h f s y i z n o u k j l x v a c p w q t
+ANswer is: 20, g h f b y i z n o u m k j l v a c p w t
+ANswer is: 21, g h f s y i z n o u m k l x v a c p w q t
+ANswer is: 21, g h f b y i z n u m k j l x v a c p w q t
+ANswer is: 20, d g f b s y i z n o m j l x e v a c t r
+ANswer is: 21, d f b s y i z n o u m k l x e v a c q t r
+ANswer is: 20, d g f s y i z n o m k j l x e v a c q r
+ANswer is: 21, d g f b s y i n o u k j l x e v a c q t r
+ANswer is: 20, d g f b y i z n o m k j l e v a c q t r
+ANswer is: 20, g f b s y i z n o u m j l e v a c q t r
+ANswer is: 20, d f b s y z n o u m k j l x e v a q t r
+ANswer is: 20, f s y i z n o u m k j l x e v a c q t r
+ANswer is: 20, d g f b s y i z n m k l x e v a c q t r
+ANswer is: 21, d g f b s y i z u m k j l x e v a c q t r
+ANswer is: 20, g f b s y i z n o u m k j l e v a c q t
+ANswer is: 20, d g f s y i z n o u m k j l x e v c q r
+ANswer is: 20, d f b s y i z n o u m k j l e v a c q t
+ANswer is: 20, d f s y i z n o u k j l x e v a c q t r
+ANswer is: 20, d g f b y i z n o u m k j l e v a c t r
+ANswer is: 20, d g f s y i z n o u m k l x v a c q t r
+ANswer is: 20, g f b y i z n u m k j l x e v a c q t r
+ANswer is: 20, d h f b s y i z n o m l x e v a c p t r
+ANswer is: 21, d g h f s y i z n o m j l x e v a c p w r
+ANswer is: 20, d g h f b s y i n o j l x e v a c w t r
+ANswer is: 21, d g h f b y i z n o m j l e v a c p w t r
+ANswer is: 22, g h f b s y i z n o m n j l e v a c p w t r
+ANswer is: 20, d h f b s y z n o m j l x e v a p w t r
+ANswer is: 20, h f s y i z n o m j l x e v a c p w t r
+ANswer is: 21, d g h f b s y i z n m l x e v a c p w t r
+ANswer is: 20, d g f b s y i z m j l x e v a c p w t r
+ANswer is: 20, g h f b s y i z n o m j l e v a c p w t
+ANswer is: 20, d g h f s y i z n o m j l x e v c p w r
+ANswer is: 20, d h f b s y i z n o m j l e v a c p w t
+ANswer is: 20, d h f s y i z n o j l x e v a c p w t r
+ANswer is: 22, d g h f b y i z n o m j l e v a c p w v t r
+ANswer is: 20, d g h f s y i z n o m l x v a c p w t r
+ANswer is: 20, g h f b y i z n m j l x e v a c p w t r
+ANswer is: 20, d h f s y i z n o m k l x e v a c p q r
+ANswer is: 20, d h f b s y i n o u k l x e v a c q t r
+ANswer is: 20, d h f b y i z n o m k l e v a c p q t r
+ANswer is: 20, h f b s y i z n o u m l e v a c p q t r
+ANswer is: 21, d h f b s y z n o u m k l x e v a p q t r
+ANswer is: 21, h f s y i z n o u m k l x e v a c p q t r
+ANswer is: 21, d h f b s y i z n m k l x e v a c p q t r
+ANswer is: 20, d f b s y i z u m k l x e v a c p q t r
+ANswer is: 20, h f b s y i z n o u m k l e v a c p q t
+ANswer is: 20, d h f s y i z n o u m k l x e v c p q r
+ANswer is: 21, d h f b s y i z n o u m k l e v a c p q t
+ANswer is: 21, d h f s y i z n o u k l x e v a c p q t r
+ANswer is: 20, d h f b y i z n o u m k l e v a c p t r
+ANswer is: 21, d h f s y i z n o u m k l x v a c p q t r
+ANswer is: 20, h f b y i z n u m k l x e v a c p q t r
+ANswer is: 20, d g h f s y i n o k j l x e v a c w q r
+ANswer is: 21, d g h f y i z n o m k j l e v a c p w q r
+ANswer is: 20, g h f s y i z n o m j l e v a c p w q r
+ANswer is: 20, d h f s y z n o m k j l x e v a p w q r
+ANswer is: 21, h f s y i z n o m k j l x e v a c p w q r
+ANswer is: 21, d g h f s y i z n m k l x e v a c p w q r
+ANswer is: 20, d g f s y i z m k j l x e v a c p w q r
+ANswer is: 20, g h f s y i z n o m k j l e v a c p w q
+ANswer is: 22, d g h f s y i z n o m k j l x e v c p w q r
+ANswer is: 20, d h f s y i z n o m k j l e v a c p w q
+ANswer is: 21, d h f s y i z n o k j l x e v a c p w q r
+ANswer is: 20, d g h f y i z n o m k j l e v a c p w r
+ANswer is: 21, d g h f s y i z n o m k l x v a c p w q r
+ANswer is: 20, g h f y i z n m k j l x e v a c p w q r
+ANswer is: 20, d g h f b y i n o k j l e v a c w q t r
+ANswer is: 20, g h f b s y i n o u j l e v a c w q t r
+ANswer is: 20, d h f b s y n o u k j l x e v a w q t r
+ANswer is: 20, h f s y i n o u k j l x e v a c w q t r
+ANswer is: 20, d g h f b s y i n k l x e v a c w q t r
+ANswer is: 20, d g f b s y i u k j l x e v a c w q t r
+ANswer is: 20, g h f b s y i n o u k j l e v a c w q t
+ANswer is: 20, d g h f s y i n o u k j l x e v c w q r
+ANswer is: 20, d h f b s y i n o u k j l e v a c w q t
+ANswer is: 21, d h f s y i n o u k j l x e v a c w q t r
+ANswer is: 20, d g h f b y i n o u k j l e v a c w t r
+ANswer is: 20, d g h f s y i n o u k l x v a c w q t r
+ANswer is: 20, g h f b y i n u k j l x e v a c w q t r
+ANswer is: 21, g h f b y i z n o m j l e v a c p w q t r
+ANswer is: 20, d h f b y z n o m k j l e v a p w q t r
+ANswer is: 20, h f y i z n o m k j l e v a c p w q t r
+ANswer is: 21, d g h f b y i z n m k l e v a c p w q t r
+ANswer is: 20, d g f b y i z m k j l e v a c p w q t r
+ANswer is: 21, g h f b y i z n o m k j l e v a c p w q t
+ANswer is: 20, d g h f y i z n o m k j l e v c p w q r
+ANswer is: 21, d h f b y i z n o m k j l e v a c p w q t
+ANswer is: 20, d h f y i z n o k j l e v a c p w q t r
+ANswer is: 22, d g h f b y i z n o m k j l e v a c p w t r
+ANswer is: 20, d g h f y i z n o m k l v a c p w q t r
+ANswer is: 21, g h f b y i z n m k j l e v a c p w q t r
+ANswer is: 20, h f b s y z n o u m j l e v a p w q t r
+ANswer is: 21, h f s y i z n o u m j l e v a c p w q t r
+ANswer is: 20, g h f b s y i z n m l e v a c p w q t r
+ANswer is: 20, g f b s y i z u m j l e v a c p w q t r
+ANswer is: 22, g h f b s y i z n o u m j l e v a c p w q t
+ANswer is: 20, g h f s y i z n o u m j l e v c p w q r
+ANswer is: 21, h f b s y i z n o u m j l e v a c p w q t
+ANswer is: 20, h f s y i z n o u j l e v a c p w q t r
+ANswer is: 21, g h f b y i z n o u m j l e v a c p w t r
+ANswer is: 20, g h f s y i z n o u m l v a c p w q t r
+ANswer is: 22, j g h f b y i z n u m j l e v a c p w q t r
+ANswer is: 21, h f s y z n o u m k j l x e v a p w q t r
+ANswer is: 20, d h f b s y z n m k l x e v a p w q t r
+ANswer is: 20, d f b s y z u m k j l x e v a p w q t r
+ANswer is: 20, h f b s y z n o u m k j l e v a p w q t
+ANswer is: 20, d h f s y z n o u m k j l x e v p w q r
+ANswer is: 21, d h f b s y z n o u m k j l e v a p w q t
+ANswer is: 21, d h f s y z n o u k j l x e v a p w q t r
+ANswer is: 20, d h f b y z n o u m k j l e v a p w t r
+ANswer is: 20, d h f s y z n o u m k l x v a p w q t r
+ANswer is: 20, h f b y z n u m k j l x e v a p w q t r
+ANswer is: 20, h f s y i z n m k l x e v a c p w q t r
+ANswer is: 20, f s y i z u m k j l x e v a c p w q t r
+ANswer is: 21, h f s y i z n o u m k j l e v a c p w q t
+ANswer is: 21, h f s y i z n o u m k j l x e v c p w q r
+ANswer is: 21, h f s y i z n o u m k j l e v a c p w q t
+ANswer is: 22, h f s y i z n o u k j l x e v a c p w q t r
+ANswer is: 20, h f y i z n o u m k j l e v a c p w t r
+ANswer is: 21, h f s y i z n o u m k l x v a c p w q t r
+ANswer is: 21, h f y i z n u m k j l x e v a c p w q t r
+ANswer is: 21, d g f b s y i z m k l x e v a c p w q t r
+ANswer is: 20, g h f b s y i z n m k l e v a c p w q t
+ANswer is: 20, d g h f s y i z n m k l x e v c p w q r
+ANswer is: 20, d h f b s y i z n m k l e v a c p w q t
+ANswer is: 20, d h f s y i z n k l x e v a c p w q t r
+ANswer is: 20, d g h f b y i z n m k l e v a c p w t r
+ANswer is: 21, d g h f s y i z n m k l x v a c p w q t r
+ANswer is: 21, g h f b y i z n m k l x e v a c p w q t r
+ANswer is: 20, g f b s y i z u m k j l e v a c p w q t
+ANswer is: 20, d g f s y i z u m k j l x e v c p w q r
+ANswer is: 20, d f b s y i z u m k j l e v a c p w q t
+ANswer is: 20, d f s y i z u k j l x e v a c p w q t r
+ANswer is: 20, d g f b y i z u m k j l e v a c p w t r
+ANswer is: 20, d g f s y i z u m k l x v a c p w q t r
+ANswer is: 21, g f b y i z u m k j l x e v a c p w q t r
+ANswer is: 20, g h f s y i z n o u m k j l e v c p w q
+ANswer is: 22, h f b s y i z n o u m k j l e v a c p w q t
+ANswer is: 20, h f s y i z n o u k j l e v a c p w q t
+ANswer is: 21, g h f b y i z n o u m k j l e v a c p w t
+ANswer is: 20, g h f s y i z n o u m k l v a c p w q t
+ANswer is: 21, g h f b y i z n u m k j l e v a c p w q t
+ANswer is: 20, d h f s y i z n o u m k j l e v c p w q
+ANswer is: 21, d h f s y i z n o u k j l x e v c p w q r
+ANswer is: 20, d g h f y i z n o u m k j l e v c p w r
+ANswer is: 21, d g h f s y i z n o u m k l x v c p w q r
+ANswer is: 20, g h f y i z n u m k j l x e v c p w q r
+ANswer is: 21, d h f s y i z n o u k j l e v a c p w q t
+ANswer is: 21, d h f b y i z n o u m k j l e v a c p w t
+ANswer is: 20, d h f s y i z n o u m k l v a c p w q t
+ANswer is: 20, h f b y i z n u m k j l e v a c p w q t
+ANswer is: 20, d h f y i z n o u k j l e v a c p w t r
+ANswer is: 21, d h f s y i z n o u k l x v a c p w q t r
+ANswer is: 20, h f y i z n u k j l x e v a c p w q t r
+ANswer is: 20, d g h f y i z n o u m k l v a c p w t r
+ANswer is: 21, g h f b y i z n u m k j l e v a c p w t r
+ANswer is: 20, g h f y i z n u m k l x v a c p w q t r
+OK to go!
